@@ -4,9 +4,9 @@
 
 
 
-뼈대안의 들어가있는 것은 구성요소 | Win Command | Sublime Command
--------- | ----------- | ---------------
-<kbd>Ctrl + Alt + 방향키</kbd> | Apache, IIS, PHP, Python | Java, My SQL, Oracle
+뼈대안의 들어가있는 것은 구성요소 | 
+-------- |
+Apache, IIS, PHP, Python, Java, My SQL, Oracle |
 
 Client(갑)은 무언가를 요청하는 사람
 Server 요청에 대해 응답하는 것. 제공하는 것.
