@@ -1,4 +1,4 @@
-설치
+##설치
 
 php는 혼자 설치되지 않고
 apache, mysql과 함께 설치된다.
@@ -17,7 +17,9 @@ Bitnami는 installer이다.
 
 Bitnami를 설치하면 여러 php 프레임워크를 설치하라고 한다. phpMyAdmin만 설치해준다.
 
-디렉토리 및 설정
+<br>
+
+##디렉토리 및 설정
 
 server   		client
 	/phpinfo.php
