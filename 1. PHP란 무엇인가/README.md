@@ -1,10 +1,10 @@
-server client
+#server client
 
-프래임, 뼈대 골격이라고 한다.
+##프래임, 뼈대 골격이라고 한다.
 
-뼈대안의 들어가있는 것은 구성요소
-
-Apache, IIS, PHP, Python, Java, My SQL, Oracle
+##|뼈대안의 들어가있는 것은 구성요소|
+---------
+##|Apache, IIS, PHP, Python, Java, My SQL, Oracle|
 
 
 Client(갑)은 무언가를 요청하는 사람
