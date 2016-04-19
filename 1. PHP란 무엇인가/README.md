@@ -2,15 +2,11 @@
 
 ##프래임, 뼈대 골격이라고 한다.
 
-##뼈대안의 |들어가있는 것은 구성요소
--------- | -------
-##Apache, IIS, PHP, Python, |Java, My SQL, Oracle
 
 
-## 윈도우와 서브라임 단축키 중복(Shortcuts overlap)
-Keypress | Win Command | Sublime Command
+뼈대안의 들어가있는 것은 구성요소 | Win Command | Sublime Command
 -------- | ----------- | ---------------
-<kbd>Ctrl + Alt + 방향키</kbd> | 화면전환 | 멀티라인 커서
+<kbd>Ctrl + Alt + 방향키</kbd> | Apache, IIS, PHP, Python | Java, My SQL, Oracle
 
 Client(갑)은 무언가를 요청하는 사람
 Server 요청에 대해 응답하는 것. 제공하는 것.
