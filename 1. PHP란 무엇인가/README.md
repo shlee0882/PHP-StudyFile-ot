@@ -10,7 +10,6 @@ Apache, IIS, PHP, Python, Java, My SQL, Oracle |
 Client: 요청하는 사람 | Server: 요청에 응답하는 것
 -----------------------|-----------------------------------
 Web Client라고 부른다.| Web Server 웹 브라우저는 인터넷을 통해 서버컴퓨터가 있는 주소로 가서 <br/> 웹서버라는 소프트웨어를 만나게 되고 그 소프트웨어에게 요청하게 된다.
-
 웹 브라우저 - 웹 클라이언트 - 구체적인 제품(ie,chrome,ff,safari) | 웹 서버 - 구체적인 제품(apache, IIS, nginx)
 
 웹 브라우저에서 웹페이지 보여주기 위해서 어떤 언어를 사용한다. - html,css,javascript
