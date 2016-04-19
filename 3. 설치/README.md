@@ -21,13 +21,13 @@ Bitnami를 설치하면 여러 php 프레임워크를 설치하라고 한다. ph
 
 ##디렉토리 및 설정
 
-server   		client
-	/phpinfo.php
-apache <-  
-아파치는 사용자가 요청한 내용을 phpinfo.php라는 파일을 아파치가 설치된 서버컴퓨터의 디렉토리에서 찾는다.
+클라이언트가 /phpinfo.php 파일을 요청시 
+
+아파치는 사용자가 요청한 내용인 phpinfo.php라는 파일을 아파치가 설치된 서버컴퓨터의 디렉토리에서 찾는다.
 아파치에 설정이 되어있는데 클라이언트가 서버에 요청 보냈을때 어느 디렉토리를 시작디렉토리로해서 그파일을 찾는다라고 설정해놓는다.
 
-디렉토리 위치는 C:\Bitnami\wampstack-5.6.20-0\apache2\conf httpd.conf 파일의 DocumentRoot 찾기 시 나온다.
+디렉토리 위치는 C:\Bitnami\wampstack-5.6.20-0\apache2\conf httpd.conf 파일의 DocumentRoot 찾기 시 나온다.<br>
 기본 디렉토리 설정 위치는 C:\Bitnami\wampstack-5.6.20-0\apache2\htdocs 이다.
 
-기본 디렉토리 위치에서 localhost를 주소에 쳤을때 index.html 파일이 기본적으로 불러오게 되고 localhost/phpinfo.php 를 치면 phpinfo.php파일을 찾게 된다.
+기본 디렉토리 위치에서 localhost를 주소에 쳤을때 index.html 파일이 기본적으로 불러오게 되고 <br>
+localhost/phpinfo.php 를 치면 phpinfo.php파일을 찾게 된다.
