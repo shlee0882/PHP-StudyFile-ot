@@ -14,6 +14,6 @@
 <br>
 <br>
 php.ini<br>
-php.ini - development 개발서버 권장됨.<br>
-php.ini - production 실서버에서 권장되는 설정 담고있음.<br>
+php.ini - development 개발서버 권장되는 설정내용 담고있음..<br>
+php.ini - production 실서버에서 권장되는 설정내용 담고있음.<br>
 
