@@ -30,13 +30,11 @@ Web Client라고 부른다.| Web Server 웹 브라우저는 인터넷을 통해 
 
 7. 웹서버가 html일 경우 html파일을 찾아서 바로 전달해주지만 확장자가 php인 파일은 자신이 처리할수 없다는것을 확인하고 php engine에게 위임하게 됨.
 
-8. php engine은 구동되고 topic.php을 해석해서 다시 웹서버에게 돌려준다.
-
-cgi는 웹서버와 php engine 사이 서로 통신할수 있는 통신규약, 약속이다.  
-
+8. php engine은 구동되고 topic.php을 해석해서 다시 웹서버에게 돌려준다. <br> cgi는 웹서버와 php engine 사이 서로 통신할수 있는 통신규약, 약속이다.  
 
 9. 웹서버와 php engine 사이에는 웹서버가 처리할수 없는 내용을 약속이 맺어져있다.
 
+<br>
 
 ##<정리>
 
