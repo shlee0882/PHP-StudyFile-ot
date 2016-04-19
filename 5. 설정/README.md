@@ -11,7 +11,7 @@
 5. 실서비스 시킬땐 off 시켜야 한다.
 
 6. php.ini 파일을 지우고 개발시 php.ini -development 파일을 복사해 이름을 php.ini로 바꾸면 된다
-
+<br>
 <br>
 php.ini<br>
 php.ini - development 개발서버 권장됨.<br>
