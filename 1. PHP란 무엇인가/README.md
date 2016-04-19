@@ -7,6 +7,11 @@
 ##Apache, IIS, PHP, Python, |Java, My SQL, Oracle
 
 
+## 윈도우와 서브라임 단축키 중복(Shortcuts overlap)
+Keypress | Win Command | Sublime Command
+-------- | ----------- | ---------------
+<kbd>Ctrl + Alt + 방향키</kbd> | 화면전환 | 멀티라인 커서
+
 Client(갑)은 무언가를 요청하는 사람
 Server 요청에 대해 응답하는 것. 제공하는 것.
 
