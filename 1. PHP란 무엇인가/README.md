@@ -1,7 +1,6 @@
 #server와 client로 구분
 
 프래임, 뼈대 골격 |
-
 뼈대안의 들어가있는 것은 구성요소 | 
 --------------------------------- |
 Apache, IIS, PHP, Python, Java, My SQL, Oracle |
